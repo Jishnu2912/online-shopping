@@ -14,6 +14,7 @@
    	>
    	
    	<context:component-scan base-package="com.neu.online_shopping.controller"/>
+   	<context:component-scan base-package="com.neu.shopping_backend.daoimpl"/>
    	
    
    	

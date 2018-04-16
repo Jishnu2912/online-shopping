@@ -29,9 +29,9 @@ $(function() {
 	case 'Contact Us':
 		$('#contact').addClass('active');
 		break;
-//	case 'All Products':
-//		$('#listProducts').addClass('active');
-//		break;
+	case 'All Products':
+		$('#listProducts').addClass('active');
+		break;
 //	case 'Product Management':
 //		$('#manageProduct').addClass('active');
 //		break;
@@ -39,7 +39,8 @@ $(function() {
 //		$('#userModel').addClass('active');
 //		break;		
 	default:
-		$('#home').addClass('active');
+		$('#listProducts').addClass('active');
+		$('#a_'+menu).addClass('active');
 	break;
 	}
 }
