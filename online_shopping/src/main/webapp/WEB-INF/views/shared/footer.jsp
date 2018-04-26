@@ -1,13 +1,14 @@
-<div class="container footer">
+    <div class="container footer">
 
-	<hr>
-	
-    <footer>
-      <div class="container">
-      	<div class="col-lg-12">
-        <p>Copyright &copy; Your Website 2017</p>
-        </div>
-      </div>
-      <!-- /.container -->
-    </footer>
-</div>    
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; JP's Bazaar - Designed and Developed By Jishnu Paduthol</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
